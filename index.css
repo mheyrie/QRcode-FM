@@ -1,0 +1,50 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background-color:hsl(220, 15%, 55%)
+}
+
+.container{
+    /* background-color: black; */
+    justify-self: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    width: 70%;
+    box-shadow: 0 4px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+p{
+    text-align: center;
+}
+
+.first-paragraph{
+    font-weight: bold ;
+    word-wrap: normal;
+}
+
+.second-paragraph{
+    font-weight: lighter;
+
+}
+
+img{
+    border-radius: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+}

@@ -37,6 +37,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+Linked the project template i was given to my Github
+
+Created a file for my CSS and i removed the style in index.html to index.css
 
 ### Built with
 
